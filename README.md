@@ -23,4 +23,9 @@
 + HP: 75
 + Attack: 7
 + Passive Special: Every other enemy turn hits for one
-+ Special: Roar instills fear. Enemies with fear suffer 25% more damage. 
++ Special: Roar instills fear. Enemies with fear suffer 25% more damage.
+
+## Notes
++ HP scales both with the number of players and the number of enemies.
++ The player is told of the enemy's intent.
++ Enemies hit harder as the fight continues. 
